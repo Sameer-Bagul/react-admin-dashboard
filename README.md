@@ -21,7 +21,7 @@ This project is an Admin Dashboard built using React and Vite. It provides a res
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/react-admin-dashboard.git
+    git clone https://github.com/Sameer-Bagul/react-admin-dashboard.git
     ```
 2. Navigate to the project directory:
     ```sh
